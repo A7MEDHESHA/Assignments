@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+}
+.menu-section {
+  text-align: center;
+  margin-top: 50px;
+}
+.menu-section h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 40px;
+}
+.menu-section h2 span {
+  color: #f5c400; 
+  font-size: 50px;
+  font: bold;
+}
+.menu-container {
+  display: flex;
+  gap: 40px;
+}
+.menu-item {
+  text-align: center;
+}
+.menu-item img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.menu-item p {
+    margin-top: 40px;
+    color: #000000; 
+    font-size: 20px;
+    font-weight: bold;
+}
