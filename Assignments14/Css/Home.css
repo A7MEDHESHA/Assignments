@@ -1,0 +1,91 @@
+body {
+    background-color: gray;
+
+}
+/* navbar */
+.navbar {
+    width: 100%;
+    position: fixed; 
+}
+.navcolo {
+    background-color: rgb(246, 255, 255) !important;
+}
+.nave-space {
+    display: flex;
+    margin-left: 50px;
+}
+/* first section */
+.fsection {
+    text-align: center;
+    background-image: url(../Assets/ChatGPT\ Image\ 1.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding: 100px;
+    height: 130vh         
+}
+.btnhome {
+    padding: 10px 20px;
+    border: none;
+    background: #113453;
+    color: white;
+    border-radius: 10px;
+}
+/* secand section */
+.continer {
+    margin-top: 150px;
+    margin-left: 20px;
+    padding: 25px;
+    background-color: white;
+    display: flex;
+}
+.btnwhite {
+    padding: 10px 20px;
+    
+    background: #ffffff;
+    color: rgb(10, 9, 9);
+    border-radius: 10px;
+}
+.img1 {
+    margin-left: 400px;
+}
+.continer2 {
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 25px;
+    background-color: white;
+    display: flex;
+}
+.img2 {
+    width: 500px;
+    height: 500px;
+}
+.righsection {
+    margin-left: 540px;
+} 
+/* section3*/
+.thirdsection {
+    text-align: center;
+    background-image: url(../Assets/ChatGPT\ Image\ Nov\ 15\,\ 2025\,\ 05_16_12\ PM.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding: 100px;
+    height: 130vh         
+}
+/* section4*/
+.section4 {
+    margin-top: 20px;
+    background-color: white;
+    display: flex;
+    gap: 200px;
+    padding: 50px;
+    
+}
+/* FOOTER */
+footer {
+    background: #1f3b54;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
